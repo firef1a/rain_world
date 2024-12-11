@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="rain_world">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/1.21.3-1.21.2-Template.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Red's Enhanced Weather 【 ATTACK TONE 】1.18x 1.0.2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

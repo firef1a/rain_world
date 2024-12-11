@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/misc/wood_spear"
+	},
+	"elements": [
+		{
+			"from": [7, 8, -5],
+			"to": [9, 10, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [2.25, 1.5, 1.75, 2], "texture": "#1"},
+				"east": {"uv": [7.25, 0, 0, 0.5], "texture": "#1"},
+				"south": {"uv": [2.25, 1, 1.75, 1.5], "texture": "#1"},
+				"west": {"uv": [7.25, 0.5, 0, 1], "texture": "#1"},
+				"up": {"uv": [0.5, 1, 0, 8.25], "texture": "#1"},
+				"down": {"uv": [1, 8.25, 0.5, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 8, -8],
+			"to": [9, 10, -5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [2, 2, 1.75, 2.5], "texture": "#1"},
+				"east": {"uv": [1.75, 1, 1, 1.5], "texture": "#1"},
+				"south": {"uv": [1.75, 2, 1.5, 2.5], "texture": "#1"},
+				"west": {"uv": [1.75, 1.5, 1, 2], "texture": "#1"},
+				"up": {"uv": [1.25, 2, 1, 2.75], "texture": "#1"},
+				"down": {"uv": [1.5, 2.75, 1.25, 2], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 2, 0.75],
+			"scale": [0.75, 0.75, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 2, 0.75],
+			"scale": [0.75, 0.75, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [77.97, 8.16, 12.84],
+			"translation": [20, -4.75, -20]
+		},
+		"firstperson_lefthand": {
+			"rotation": [74, 9, 180],
+			"translation": [19.5, -4, -19.25]
+		},
+		"gui": {
+			"rotation": [66.78, -41.53, -150.4],
+			"translation": [0.25, 0.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}
