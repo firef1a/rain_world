@@ -7,7 +7,4 @@ Resource Packs used for this project:
 - Haru's Enhanced Weather2 by Haru3S - https://modrinth.com/resourcepack/hew2
 
 Art:
- - Rain World cover art (so true) 
-a
-
-
+ - Rain World cover art (so true)
