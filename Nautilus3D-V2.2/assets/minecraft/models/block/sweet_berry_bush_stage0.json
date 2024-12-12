@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_triple_cross_offset",
-  "textures": {
-    "cross": "minecraft:block/sweet_berry_bush_stage0"
-  }
-}
