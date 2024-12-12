@@ -1,0 +1,16 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"5": "custom_textures/blast_furnace_fire"
+	},
+	"elements": [
+		{
+			"from": [5, 5, 0.75],
+			"to": [11, 9, 0.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 4], "texture": "#5", "cullface": "north"}
+			}
+		}
+	]
+}
