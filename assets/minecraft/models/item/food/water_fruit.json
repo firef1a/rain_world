@@ -121,11 +121,11 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [7.1, 10.64, -4.42],
-			"translation": [4.5, -1, -6.25]
+			"translation": [7.75, -0.5, -6.25]
 		},
 		"firstperson_lefthand": {
 			"rotation": [7.1, 10.64, -4.42],
-			"translation": [4.5, -1, -6.25]
+			"translation": [7.75, -0.5, -6.25]
 		},
 		"gui": {
 			"rotation": [-90, 0, 0],
